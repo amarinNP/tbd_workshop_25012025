@@ -7,6 +7,7 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
+    console.log("Amarin-Noipao")
     console.log("Atipat_Suttatham")
 
     
